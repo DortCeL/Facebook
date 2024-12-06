@@ -4,7 +4,7 @@ const Login = () => {
 			{/* left */}
 			<div className='w-50'>
 				<div>
-					<h1 className='text-5xl font-bold text-blue-600'>facebook</h1>
+					<h1 className='text-5xl font-bold text-blue-600'>fakebook</h1>
 					<h2 className='mt-4 text-5xl font-extralight text-gray-600'>
 						Recent logins
 					</h2>

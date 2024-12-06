@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-	title: "Facebook",
+	title: "Fakebook - it is what it is",
 	description: "A facebook clone created in Next JS",
 };
 
